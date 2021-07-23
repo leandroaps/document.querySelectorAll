@@ -6,11 +6,9 @@
 
 ```
 var elementsRed = document.querySelectorAll('.bg-red');
-
 ```
 ### Get all elements with the [data-snack] attribute
 
 ```
 var elementsSnacks = document.querySelectorAll('[data-snack]');
-
 ```
